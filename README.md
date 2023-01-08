@@ -1,6 +1,6 @@
-# flawed-ware
+# flawed.dev
 
-Flawed-ware is a cheat hub holding lots of scripts ready for your use.
+flawed.dev was made by flaws#3114 
 
 Flawed uses "Kavo UI" For its hub.
 
